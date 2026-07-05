@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>White_Wind</name>
+	<uuid>87ce2394-1724-44e5-b792-fa7328d9583d</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>7cd7c460-0d11-40be-bc5d-4247b18a0544</geom_db_uuid>
+	<gdb_light_uuid>64525504-c7be-49f4-aef8-e0328c24e58f</gdb_light_uuid>
+	<model_geom_uuid>4266090b-9af3-4219-a11d-529a62697fdf</model_geom_uuid>
+	<template_id/>
+</project>

@@ -1,2 +1,24 @@
-#ignorar 0000009.BIN
-00000009.BIN
+# Flight logs (large binary files)
+*.BIN
+*.bin
+
+# Autodesk Inventor automatic backups and temporary lock files
+**/OldVersions/
+*.lck
+*.tmp
+*.bak
+*_Assembly.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS metadata
+Thumbs.db
+.DS_Store
+desktop.ini
