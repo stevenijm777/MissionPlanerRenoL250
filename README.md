@@ -55,7 +55,7 @@ Contiene la algoritmia para análisis post-vuelo de telemetría y vibraciones:
 
 ---
 
-## 🛠️ Requisitos e Instalación
+##  Requisitos e Instalación
 
 Para ejecutar los scripts de procesamiento de telemetría, se requiere Python 3.8+ y las siguientes dependencias:
 
@@ -74,7 +74,7 @@ pip install pymavlink pandas matplotlib openpyxl
 
 ---
 
-## 🛩️ Componentes de la Plataforma Reno L250 (Auto)
+##  Componentes de la Plataforma Reno L250 (Auto)
 * **Controlador de Vuelo**: Pixhawk 2.4.8 (Firmware ArduPlane)
 * **Módulo GNSS**: NEO-M8N GPS con brújula magnetómetro externa
 * **Motor Brushless**: KingVal 3548 1100KV (Conversión eléctrica)
